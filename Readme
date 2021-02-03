@@ -4,7 +4,7 @@ __________________________
 
 
 *)first creat a database on your local web server (*Database name:bechat)
-
+Database file import the webserver (bechat.sql)
 
 1)is this move on your web server page 
 2)start your local server

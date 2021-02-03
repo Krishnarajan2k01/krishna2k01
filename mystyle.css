@@ -1,0 +1,48 @@
+	body{
+		
+		text-align: center;
+		font-family:Lobster;
+		background-image: url(bgimg.png);
+		background-repeat:no-repeat;
+		background-size:1480px 920px;
+	}
+
+	h1{
+
+		font-family:Pacifico;
+		text-align: center;
+		margin-top:-30px;
+	}
+	div{
+		text-align: center;
+		font-size:20px;
+		background:white;
+		display: inline-block;
+		border: 3px solid rgba(0, 0, 0, 0.3);
+  		border-radius: 10px;
+		margin:160px 0px 0px 0px;
+		padding:50px;
+		opacity: 0.5;
+	}
+	.bt{
+		font-family:Lobster;
+		padding: 5px;
+		border: 1px SOLID;
+	}
+	input{
+		border: 2px solid;
+		border-radius: 10px;
+		margin: 10px;
+		font-size:18px;
+	}
+	.tb{
+		 padding: 5px;
+	}
+	.x{
+		text-align: center;
+	}
+	.ab
+	{
+		margin: 10px 10px 10px 50px;
+		padding: 5px ;
+	}

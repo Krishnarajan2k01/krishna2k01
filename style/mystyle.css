@@ -1,0 +1,49 @@
+	body{
+		display: flex;
+		height: 100%;					
+		justify-content: center;
+		font-family:Lobster;
+		background-image: url("/bechat/image/bgimg.png");
+		background-repeat:no-repeat;
+		background-size:cover;
+		align-items: center;
+		overflow:hidden;
+	}
+
+	h1{
+
+		font-family:Pacifico;
+		text-align: center;
+		margin-top:-30px;
+	}
+	.main{
+
+		font-size:20px;
+		background:white;
+		display: inline-block;
+		border: 3px solid rgba(0, 0, 0, 0.3);
+  		border-radius: 10px;
+		padding:50px;
+		opacity: 0.5;
+	}
+	.bt{
+		font-family:Lobster;
+		border: 1px SOLID;
+	}
+	input{
+		border: 2px solid;
+		border-radius: 10px;
+		margin: 10px;
+		font-size:18px;
+	}
+	.tb,.bt{
+		 padding: 5px;
+	}
+	td{
+		text-align: center;
+	}
+	.ab
+	{
+		margin: 10px 10px 10px 50px;
+		padding: 5px ;
+	}
